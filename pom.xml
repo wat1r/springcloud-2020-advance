@@ -15,6 +15,10 @@
         <module>cloud-consumer-order80</module>
         <module>cloud-provider-payment8001</module>
         <module>cloud-provider-payment8002</module>
+        <module>cloud-provider-payment8004</module>
+        <module>cloud-consumerzk-order80</module>
+        <module>cloud-providerconsul-payment8006</module>
+        <module>cloud-consumerconsul-order80</module>
     </modules>
 
     <name>springcloud-2020-advance</name>
